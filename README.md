@@ -50,6 +50,8 @@ Contact:
 
 ## Projects
 
+* **RAGaik: RAG-system based on handwritten math text** – HSE Study project
+    * <a href="https://github.com/Leamich/Ragaik"><img alt="GitHub Badge" src="https://img.shields.io/badge/Github-EBEBD3?style=flat&logo=github&logoColor=white&labelColor=63BA99"></a>
 * **Detection of Pharmaceutical Personal Protective Equipment in Video Stream** – BIOCAD
     * <a href="Https://github.com/xenos18/ppe_detection"> <img alt="GitHub Badge" src="https://img.shields.io/badge/Github-EBEBD3?style=flat&logo=github&logoColor=white&labelColor=63BA99"></a>
 * **Segmentation of Histological Images with Small Datasets** – BIOCAD
