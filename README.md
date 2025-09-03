@@ -27,10 +27,11 @@ Contact:
 * <img src="images/yaedu_icon.png" alt="YaEdu Icon" width="20" height="20"> **Yandex Educational Technologies** – <img src="https://img.shields.io/badge/Reviewer_Mentor-lightgrey" alt="Reviewer/Mentor Badge"> Reviewer/Mentor (April 2024 - Present)
     * Assisted students in mastering course material.
     * Mentored project teams.
-* <img src="images/mipt_icon.png" alt="MIPT Icon" width="20" height="20"> **MIPT Summer Schools, Moscow** – <img src="https://img.shields.io/badge/Instructor-lightgrey" alt="Instructor Badge"> Instructor, Python Data Analysis Course (August 2024)
+* <img src="images/mipt_icon.png" alt="MIPT Icon" width="20" height="20"> **MIPT Summer Schools, Moscow** – <img src="https://img.shields.io/badge/Instructor-lightgrey" alt="Instructor Badge"> Instructor, Python Data Analysis Course (2024-2025)
     * Developed methodological materials.
     * Taught the course.
     * Mentored project groups.
+* <img src="images/hse_icon.png" alt="HSE Icon" width="20" height="20"> **School of Programming and Data Analysis, St. Petersburg** – <img src="https://img.shields.io/badge/Mentor-lightgrey" alt="Mentor Badge"> Mentor of project teams (May 2025)
 
 ## Education
 
