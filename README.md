@@ -2,10 +2,16 @@
 
 **ML Student at HSE University Saint Petersburg** · Saint Petersburg, Russia
 
-[![michlea@yandex.ru](https://img.shields.io/badge/michlea%40yandex.ru-083D77?style=flat&logo=yandex&logoColor=white)](mailto:michlea@yandex.ru) [![@michlea_tg](https://img.shields.io/badge/%40michlea__tg-083D77?style=flat&logo=telegram&logoColor=white)](https://t.me/michlea_tg) [![ORCID 0009-0008-7739-7356](https://img.shields.io/badge/ORCID%200009--0008--7739--7356-083D77?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-7739-7356) [![michlea.com](https://img.shields.io/badge/michlea.com-083D77?style=flat)](https://michlea.com) [![Resume](https://img.shields.io/badge/Resume-083D77?style=flat)](https://michlea.com/media/cv/academic-ru.pdf)
+[![michlea@yandex.ru](https://img.shields.io/badge/michlea%40yandex.ru-083D77?style=flat&logo=yandex&logoColor=white)](mailto:michlea@yandex.ru) [![@michlea_tg](https://img.shields.io/badge/%40michlea__tg-083D77?style=flat&logo=telegram&logoColor=white)](https://t.me/michlea_tg) [![ORCID 0009-0008-7739-7356](https://img.shields.io/badge/ORCID%200009--0008--7739--7356-083D77?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-7739-7356) [![michlea.com/en](https://img.shields.io/badge/michlea.com%2Fen-083D77?style=flat)](https://michlea.com/en) [![Resume](https://img.shields.io/badge/Resume-083D77?style=flat)](https://michlea.com/media/cv/academic-ru.pdf)
+
+*[Русская версия](README_ru.md)*
 
 ## Experience
 
+- <img src="https://michlea.com/media/spb-full-0c9e33d9.svg" alt="" width="18" height="18" align="top"> **Organizer and Tutor, Summer Practice for High School Students** — HSE University - Saint Petersburg · *Jun 2026 · Saint Petersburg*
+  - Developing and conducting lectures and hands-on sessions
+  - Mentoring project groups
+  - General organization
 - <img src="https://michlea.com/media/02-crop-66de6e97.png" alt="" width="18" height="18" align="top"> **Computer Vision Intern** — X5 Tech · *Feb 2026 — Aug 2026*
 - <img src="https://michlea.com/media/de8a4fa0-0b29-4901-a678-35f93d358cdf-cro-5979e5d7.png" alt="" width="18" height="18" align="top"> **Intern. Model alignment for solving logic puzzles.** — T-Lab (aka Tinkoff Laboratory) · *Sep 2025*
   - Reinforcement Learning: LLM Alignment
@@ -13,7 +19,7 @@
   - Development of a task generation environment (including multi-threaded support)
   - Alignment of the Qwen2.5-Pro model
   - Prompt optimization
-- <img src="https://michlea.com/media/spb-full-6d0edb62.svg" alt="" width="18" height="18" align="top"> **Project Mentor** — School of Practical Programming and Data Analysis (HSE University) · *May 2025 · Saint Petersburg*
+- <img src="https://michlea.com/media/spb-full-6d0edb62.svg" alt="" width="18" height="18" align="top"> **Project Mentor** — School of Practical Programming and Data Analysis (HSE University) · *May 2025 — May 2026 · Saint Petersburg*
   - Project team mentoring
 - <img src="https://michlea.com/media/hv-s-no-bg-crop-f9afa603.png" alt="" width="18" height="18" align="top"> **Lecturer of Data analysis and Machine learning** — MIPT Summer Olympiad Schools · *Jun 2024 — Aug 2026 · Moscow*
   - Development of program teaching materials
@@ -62,7 +68,3 @@
   - Big Data and Machine Learning track
 - **DANO data analysis olympiad — prizewinner** (2023)
   - 2nd place in the individual round
-
----
-
-*Generated from [michlea.com](https://michlea.com).*
